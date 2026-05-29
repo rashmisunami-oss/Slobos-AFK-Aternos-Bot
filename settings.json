@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "goofysmp-FuS2.aternos.me",
+    "ip": "goofysmp-FuS2.aternos.me:13002",
     "port": 13002,
     "version": "26.1.2",
     "try-creative": false
