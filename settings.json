@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "goofysmp-FuS2.aternos.me:13002",
+    "port": 13002,
     "version": "",
     "try-creative": false
   },
